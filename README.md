@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dev-Deck
 - 👀 I’m interested in software architecture and game development.
-- 🌱 I’m currently learning to master patterns and algorithms.
-- 💞️ I’m looking to collaborate on wonderful gaming projects.
+- 🌱 I’m currently learning to master patterns and algorithms, while trying to teach others too!
 - ⚡ Fun fact: I have a [YouTube Channel](https://www.youtube.com/channel/UCzlYKpZkYjC-KNYRm0vIdQg)
 
 <!---
